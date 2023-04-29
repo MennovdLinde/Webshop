@@ -1,0 +1,182 @@
+{
+    "Aqua BLue": {
+        "img": "images/Agua Blue.png",
+        "beschrijving": "Bronwater uit Amerika",
+        "herkomst": "Amerika",
+        "Bruis": "ja",
+        "Gearomatiseerd": "ja",
+        "alkalisch": "nee",
+        "thee": "nee"
+    },
+    "Aqua Minerale": {
+        "img": "images/Aqua Minerale.png",
+        "beschrijving": "Mineraalwater uit Italië",
+        "herkomst": "Zuid Europa",
+        "Bruis": "ja",
+        "Gearomatiseerd": "ja",
+        "alkalisch": "nee",
+        "thee": "nee"
+    },
+    "Aquafina": {
+        "img": "images/Aquafina.png",
+        "beschrijving": "Gezuiverd water uit Amerika",
+        "herkomst": "Amerika",
+        "Bruis": "nee",
+        "Gearomatiseerd": "ja",
+        "alkalisch": "nee",
+        "thee": "nee"
+    },
+    "Bai": {
+        "img": "images/Bai.jpeg",
+        "beschrijving": "Gezuiverd water uit Amerika",
+        "herkomst": "Amerika",
+        "Bruis": "ja",
+        "Gearomatiseerd": "ja",
+        "alkalisch": "nee",
+        "thee": "ja"
+    },
+    "Cristaline": {
+        "img": "images/Cristaline.png",
+        "beschrijving": "Natuurlijk mineraalwater uit Frankrijk",
+        "herkomst": "Zuid Europa",
+        "Bruis": "ja",
+        "Gearomatiseerd": "ja",
+        "alkalisch": "nee",
+        "thee": "nee"
+    },
+    "Dasani": {
+        "img": "images/Dasani.jpeg",
+        "beschrijving": "Gezuiverd water uit Duitsland",
+        "herkomst": "Noord Europa",
+        "Bruis": "nee",
+        "Gearomatiseerd": "ja",
+        "alkalisch": "nee",
+        "thee": "nee"
+    },
+    "Evian": {
+        "img": "https://1000logos.net/wp-content/uploads/2020/09/Evian-Logo-1999.jpg",
+        "beschrijving": "Mineraalwater uit Frankrijk",
+        "herkomst": "Zuid Europa",
+        "Bruis": "ja",
+        "Gearomatiseerd": "nee",
+        "alkalisch": "nee",
+        "thee": "nee"
+    },
+    "Fijj": {
+        "img": "images/fiji.png",
+        "beschrijving": "Artesisch water uit Oceanië",
+        "herkomst": "Oceanië",
+        "Bruis": "ja",
+        "Gearomatiseerd": "ja",
+        "alkalisch": "nee",
+        "thee": "nee"
+    },
+    "Font vella": {
+        "img": "images/Font Vella.png",
+        "beschrijving": "Bronwater uit Spanje",
+        "herkomst": "Zuid Europa",
+        "Bruis": "ja",
+        "Gearomatiseerd": "nee",
+        "alkalisch": "nee",
+        "thee": "nee"
+    },
+    "Gerolsteiner": {
+        "img": "images/Gerolsteiner.png",
+        "beschrijving": "Mineraalwater uit Duitsland",
+        "herkomst": "Noord Europa",
+        "Bruis": "ja",
+        "Gearomatiseerd": "nee",
+        "alkalisch": "nee",
+        "thee": "nee"
+    },
+    "Icelandic Glacial": {
+        "img": "images/Icelandic Glacial.jpeg",
+        "beschrijving": "Bronwater uit IJsland",
+        "herkomst": "Noord Europa",
+        "Bruis": "ja",
+        "Gearomatiseerd": "nee",
+        "alkalisch": "nee",
+        "thee": "nee"
+    },
+    "LIFEWTR": {
+        "img": "images/LIFEWTR.png",
+        "beschrijving": "Gezuiverd water uit Amerika",
+        "herkomst": "Amerika",
+        "Bruis": "ja",
+        "Gearomatiseerd": "nee",
+        "alkalisch": "nee",
+        "thee": "nee"
+    },
+    "Master": {
+        "img": "images/Master.png",
+        "beschrijving": "Mineraalwater uit Indonesië",
+        "herkomst": "Azië",
+        "Bruis": "ja",
+        "Gearomatiseerd": "ja",
+        "alkalisch": "nee",
+        "thee": "nee"
+    },
+    "Nongfu": {
+        "img": "images/nongfu.jpeg",
+        "beschrijving": "Bronwater uit China",
+        "herkomst": "Azië",
+        "Bruis": "ja",
+        "Gearomatiseerd": "ja",
+        "alkalisch": "nee",
+        "thee": "ja"
+    },
+    "Pellegrino": {
+        "img": "images/Pellegrino.jpeg",
+        "beschrijving": "Mineraalwater uit Italië",
+        "herkomst": "Zuid Europa",
+        "Bruis": "ja",
+        "Gearomatiseerd": "nee",
+        "alkalisch": "nee",
+        "thee": "nee"
+    },
+    "Perrier": {
+        "img": "images/Perrier.jpeg",
+        "beschrijving": "Mineraalwater uit Frankrijk",
+        "herkomst": "Zuid Europa",
+        "Bruis": "ja",
+        "Gearomatiseerd": "ja",
+        "alkalisch": "nee",
+        "thee": "nee"
+    },
+    "San Benedetto": {
+        "img": "images/San Benedetto.png",
+        "beschrijving": "Mineraalwater uit Italië",
+        "herkomst": "Zuid Europa",
+        "Bruis": "ja",
+        "Gearomatiseerd": "nee",
+        "alkalisch": "nee",
+        "thee": "nee"
+    },
+    "SmartWater": {
+        "img": "images/SmartWater.png",
+        "beschrijving": "Bronwater uit Groot-Brittannië",
+        "herkomst": "Noord Europa",
+        "Bruis": "ja",
+        "Gearomatiseerd": "ja",
+        "alkalisch": "ja",
+        "thee": "nee"
+    },
+    "Volvic": {
+        "img": "images/Volvic.jpeg",
+        "beschrijving": "Bronwater uit Frankrijk",
+        "herkomst": "Zuid Europa",
+        "Bruis": "nee",
+        "Gearomatiseerd": "ja",
+        "alkalisch": "nee",
+        "thee": "nee"
+    },
+    "Voss": {
+        "img": "images/Voss.png",
+        "beschrijving": "Artesisch water uit Noorwegen",
+        "herkomst": "Noord Europa",
+        "Bruis": "ja",
+        "Gearomatiseerd": "nee",
+        "alkalisch": "nee",
+        "thee": "nee"
+    }
+}
